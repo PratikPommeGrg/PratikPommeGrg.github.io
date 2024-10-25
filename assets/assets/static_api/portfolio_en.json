@@ -1,0 +1,132 @@
+{
+  "data": [
+
+    {
+      "title": "eNirman - Engineer",
+      "descriptions": "eNirman-Engineer is a comprehensive tool designed for construction professionals to streamline project management. With features like milestone tracking, material order management, attendance tracking, and daily report creation, it enhances efficiency on-site. Engineers can also access architectural plans, manage petty cash, and stay connected with departments through real-time chat. eNirman-Engineer simplifies the complexities of construction management, making it more organized and transparent.",
+      "images": [
+        "assets/images/portfolio/engineer/unnamed.png",
+        "assets/images/portfolio/engineer/unnamed1.png",
+        "assets/images/portfolio/engineer/unnamed2.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.theyetilabs.enirman.site.engineer",
+      "appStore": "https://apps.apple.com/in/app/enirman-engineer/id6654917999",
+      "tag": [
+        "Flutter",
+        "Android",
+        "iOS"
+      ]
+    },
+      
+    {
+      "title": "eNirman - Vendor",
+      "descriptions": "eNirman Vendor is a material order management app designed to simplify procurement processes for vendors. With features like calendar-based order tracking, quick search, editing capabilities, and transaction history, it provides an efficient way to manage material orders. Vendors can easily access and update their account profiles, ensuring seamless operations and timely deliveries within the eNirman ecosystem.",
+      "images": [
+        "assets/images/portfolio/vendor/unnamed.png",
+        "assets/images/portfolio/vendor/unnamed1.png",
+        "assets/images/portfolio/vendor/unnamed2.png",
+        "assets/images/portfolio/vendor/unnamed3.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.theYetiLabs.enirmanVendorApp",
+      "appStore": "https://apps.apple.com/in/app/enirman-vendor/id6670314168",
+      "tag": [
+        "Flutter",
+        "Android",
+        "iOS",
+        "Order Management"
+      ]
+    },
+    {
+      "title": "eNirman",
+      "descriptions": "eNirman is an innovative home construction platform designed to revolutionize the building process. With real-time updates, seamless communication between clients and builders, and next-gen project management tools, eNirman ensures a transparent and efficient construction journey. The app offers smart insights into project progress, financial milestones, and site developments, all in one place, making it the future of construction management.",
+      "images": [
+        "assets/images/portfolio/enirman/unnamed.png",
+        "assets/images/portfolio/enirman/unnamed1.png",
+        "assets/images/portfolio/enirman/unnamed2.png",
+        "assets/images/portfolio/enirman/unnamed3.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.theyetilabs.enirman",
+      "appStore": "https://apps.apple.com/in/app/enirman/id6475091217",
+      "tag": [
+        "Flutter",
+        "Android",
+        "iOS",
+        "Construction"
+      ]
+    },
+    {
+      "title": "Mero Padhai",
+      "descriptions": "Mero Padhai is a digital learning platform designed for students in Nepal. It offers curriculum-based educational resources including video lectures, notes, quizzes, and interactive learning materials. Covering a range of academic levels like SEE, NEB 12, BBS, MBS, and exam preparation courses, Mero Padhai makes learning convenient and accessible for students. With a user-friendly interface, the app helps students enhance their understanding and achieve better exam results.",
+      "images": [
+        "assets/images/portfolio/meropadhai/unnamed.png",
+        "assets/images/portfolio/meropadhai/unnamed1.png",
+        "assets/images/portfolio/meropadhai/unnamed2.png",
+        "assets/images/portfolio/meropadhai/unnamed3.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.meropadhai.clinchtech",
+      "appStore": "https://apps.apple.com/us/app/mero-padhai/id6444363644",
+      "tag": [
+        "Flutter",
+        "iOS",
+        "Android",
+        "LMS"
+      ]
+    },
+
+  
+    {
+      "title": "Bhumi Sewa - Carbon Footprint",
+      "descriptions": "Bhumi Sewa, meaning Earth Stewardship in Nepali, is an app designed to help users understand and reduce their environmental impact. With a user-friendly carbon footprint calculator, the app tracks emissions from travel, food, energy, and waste. Bhumi Sewa also allows users to offset their emissions by supporting environmental projects such as biodiversity conservation and forest restoration. It provides personalized goals, educational resources, and motivational tools to encourage a sustainable lifestyle. Bhumi Sewa empowers users to make informed choices and contribute to a healthier planet.",
+      "images": [
+        "assets/images/portfolio/bhumisewa/unnamed.png",
+        "assets/images/portfolio/bhumisewa/unnamed1.png",
+        "assets/images/portfolio/bhumisewa/unnamed2.png",
+        "assets/images/portfolio/bhumisewa/unnamed3.png",
+        "assets/images/portfolio/bhumisewa/unnamed4.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.theyetilabs.bhumiSewa",
+      "appStore": "https://apps.apple.com/in/app/bhumi-sewa-carbon-footprint/id6498712339",
+      "tag": [
+        "Flutter",
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "title": "Krishi Connect",
+      "descriptions": "Krishi Connect is a comprehensive mobile platform transforming agriculture in Nepal by connecting farmers, agrovet businesses, and consumers. The app enables farmers to expand their network, manage their profile, access valuable resources, and connect directly with markets. Agrovet businesses can promote their offerings, interact with farmers, and grow their network, while consumers can find and support local, sustainable agricultural products. With features like a marketplace for buying and selling, nearby farm discovery, and upcoming tools for data sharing and stakeholder engagement, Krishi Connect is empowering the agricultural community to connect, grow, and thrive.",
+      "images": [
+        "assets/images/portfolio/krishiconnect/unnamed.png",
+        "assets/images/portfolio/krishiconnect/unnamed1.png",
+        "assets/images/portfolio/krishiconnect/unnamed2.png",
+        "assets/images/portfolio/krishiconnect/unnamed3.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.theyetilabs.krishiconnect",
+      "appStore": "https://apps.apple.com/in/app/krishi-connect/id6478767186",
+      "tag": [
+        "Build from scratch",
+        "Flutter",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "title": "Nepal Edu",
+      "descriptions": "Nepal Edu is an innovative educational platform designed to bridge the gap in quality education across Nepal, particularly in rural areas. Developed by the Open Learning Foundation, the platform offers recorded video lessons, textbooks, and supplementary materials to students who lack access to qualified teachers and resources. Nepal Edu aims to empower students and teachers alike by providing comprehensive digital resources, contributing to a more educated and equitable Nepal.",
+      "images": [
+        "assets/images/portfolio/nepal/unnamed.png",
+        "assets/images/portfolio/nepal/unnamed1.png",
+        "assets/images/portfolio/nepal/unnamed2.png",
+        "assets/images/portfolio/nepal/unnamed3.png"
+      ],
+      "playStore": "https://play.google.com/store/apps/details?id=com.yetilabs.nepaledu",
+      "appStore": "https://apps.apple.com/in/app/nepal-edu/id6472643598",
+      "tag": [
+        "Flutter",
+        "IOS",
+        "Android",
+        "LMS"
+      ]
+    }
+  ]
+}
